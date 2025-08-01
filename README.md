@@ -35,7 +35,7 @@ To run this project on your own machine or in Google Colab:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/EthicaGuard-AI-Content-Moderator.git](https://github.com/YOUR_USERNAME/EthicaGuard-AI-Content-Moderator.git)
+    git clone [https://github.com/HamidOmarov/EthicaGuard-AI-Content-Moderator.git](https://github.com/HamidOmarov/EthicaGuard-AI-Content-Moderator.git)
     ```
 2.  **Open the Notebook:**
     Upload and open the `EthicaGuard_Project.ipynb` file in Google Colab.
